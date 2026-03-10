@@ -66,6 +66,24 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YiShu5/feishu-imghost">
+  <img src="https://img.shields.io/badge/🔄_feishu--imghost-public-f59e0b?style=for-the-badge&labelColor=161b22" />
+</a>
+
+**Markdown 图床转存 · 防盗链突破**
+
+复制任意文章 → 图片自动转存 GitHub → 飞书一键粘贴。
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github)
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 </div>
 
@@ -113,6 +131,28 @@
 `Next.js 16` `DeepSeek` `Tailwind 4` `Edge Deploy`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 [PicSync — Markdown 图床转存](https://github.com/YiShu5/feishu-imghost)
+
+**防盗链突破 · GitHub 图床 · 飞书富文本**
+
+> 从知乎复制的图，粘进飞书就挂——这个问题解决了。
+
+Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传 GitHub，生成永久 CDN 链接，直接粘入飞书、Notion、掘金等平台即时显示。
+
+**核心能力：**
+- 🔗 内置语雀 / 知乎 / 微博 / 微信公众号 Referer 规则，无感突破防盗链
+- ⚡ 并发下载 + 串行上传，彻底解决 GitHub API 并发冲突
+- 📋 飞书富文本一键粘贴，图片即时显示
+- 🗂️ 历史记录网格，支持复制 URL / Markdown / 从 GitHub 删除
+
+`Chrome Extension MV3` `GitHub API` `declarativeNetRequest` `JavaScript`
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
