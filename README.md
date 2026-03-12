@@ -82,7 +82,22 @@
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github)
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YiShu5/content-curation">
+  <img src="https://img.shields.io/badge/🔇_NoiseFilter-public-F26B3A?style=for-the-badge&labelColor=161b22" />
+</a>
+
+**每日内容策展 · AI 降噪系统**
+
+YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
+
+</td>
 </tr>
 </table>
 </div>
@@ -152,7 +167,25 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 `Chrome Extension MV3` `GitHub API` `declarativeNetRequest` `JavaScript`
 
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 🔇 [NoiseFilter — 每日内容策展](https://github.com/YiShu5/content-curation)
+
+**AI 降噪系统 · 从海量信息中提炼信号**
+
+> 每天 720,000 小时视频上传到 YouTube，你不需要看完，你需要降噪。
+
+全自动化内容策展管道：抓取 YouTube / Bilibili / 小宇宙 → BibiGPT 转录 → DeepSeek 深度改写 → 飞书多维表格归档 → 降噪风格博客展示。一条命令，5 分钟获取一小时播客的全部精华。
+
+**核心能力：**
+- 🎯 三平台统一抓取，yt-dlp + feedparser 双引擎
+- 🧠 AI 深度改写：中文标题重拟 + 金句提取 + 核心观点 + 1500字摘要
+- 📊 飞书多维表格自动同步，封面图一键上传
+- 🌐 内置降噪风格博客，三列卡片 + 详情页开箱即用
+
+`Python` `Node.js` `DeepSeek` `Flask` `飞书 API` `BibiGPT`
+
+</td>
 </tr>
 </table>
 
@@ -164,6 +197,8 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_API-6366f1?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Frontend & Framework**
