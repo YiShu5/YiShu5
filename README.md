@@ -98,6 +98,8 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/YiShu5/GZHcomposing">
@@ -112,6 +114,8 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -201,6 +205,8 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 `Python` `Node.js` `DeepSeek` `Flask` `飞书 API` `BibiGPT`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧈 [意疏的AI口袋 — 公众号排版器](https://github.com/YiShu5/GZHcomposing)
@@ -219,6 +225,8 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 
 `HTML5` `CSS3` `JavaScript` `Contenteditable`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
