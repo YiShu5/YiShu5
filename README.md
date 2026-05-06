@@ -98,6 +98,21 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
 
 </td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/YiShu5/GZHcomposing">
+  <img src="https://img.shields.io/badge/🧈_GZHcomposing-public-blue?style=for-the-badge&labelColor=161b22" />
+</a>
+
+**意疏的AI口袋 · 公众号排版器**
+
+哆啦A梦口袋风格，实时双栏编辑，Markdown一键转换。
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
 </tr>
 </table>
 </div>
@@ -184,6 +199,25 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 - 🌐 内置降噪风格博客，三列卡片 + 详情页开箱即用
 
 `Python` `Node.js` `DeepSeek` `Flask` `飞书 API` `BibiGPT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧈 [意疏的AI口袋 — 公众号排版器](https://github.com/YiShu5/GZHcomposing)
+
+**哆啦A梦口袋风格 · 新媒体运营效率工具**
+
+> 好的排版不仅是视觉上的美感，更是对读者阅读体验的尊重。
+
+哆啦A梦口袋主题的微信公众号排版工具。实时双栏编辑、Markdown解析、多套预设风格一键切换。
+
+**核心能力：**
+- 🎨 8种排版模式 + 哆啦A梦主题皮肤
+- ⚡ 实时预览，所见即所得
+- 📋 一键复制到公众号，富文本直接粘贴
+- 🔧 设计开头总结框、小标题、结尾模块
+
+`HTML5` `CSS3` `JavaScript` `Contenteditable`
 
 </td>
 </tr>
