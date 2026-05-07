@@ -50,8 +50,8 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/GZHcomposing">
-  <img src="https://img.shields.io/badge/🧈_GZHcomposing-public-blue?style=for-the-badge&labelColor=161b22" />
+<a href="https://yishu5.github.io/GZHcomposing/">
+  <img src="https://img.shields.io/badge/🧈_意疏的AI口袋-live-blue?style=for-the-badge&labelColor=161b22" />
 </a>
 
 **意疏的AI口袋 · 公众号排版器**
@@ -127,7 +127,7 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 </td>
 <td width="50%" valign="top">
 
-### 🧈 [意疏的AI口袋 — 公众号排版器](https://github.com/YiShu5/GZHcomposing)
+### 🧈 [意疏的AI口袋 — 公众号排版器](https://yishu5.github.io/GZHcomposing/)
 
 **哆啦A梦口袋风格 · 新媒体运营效率工具**
 
