@@ -108,40 +108,40 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [My Brain — AI 智能收藏夹](https://github.com/YiShu5/my-bookmarks)
+### 🦞 [Lobster Skills — Claude Code 能力插件集](https://github.com/YiShu5/lobster-skills)
 
-**高密度知识萃取器 · 解决信息过载**
+**实战打磨的 Claude Code Skills · 经验沉淀器**
 
-> 收藏一个链接的瞬间，就是提炼知识的瞬间。
+> 好工具不是写出来的，是用出来的。
 
-每次收藏，DeepSeek 自动阅读全文 → 生成摘要 → 结构化知识笔记 → 语义标签。你得到的不是一个死链接，而是一张随时可激活的知识卡片。
+收录我自己写或改造、反复使用验证过的 Claude Code Skills。遵循三原则：description 是触发器（覆盖隐性意图）、token 预算管理（lite/full 双版本）、规则写硬约束（减少模型自由发挥）。
 
-**核心能力：**
-- 🤖 双通道 AI 并发：快速摘要 + 深度提炼
-- 📸 Readability 全文快照，内容永不 404
-- 📱 PWA + Web Share Target，手机原生体验
-- 📋 剪贴板 FAB，Ctrl+V 盲狙式无感收藏
+**已收录 Skills：**
+- 🦀 `clawd-animation` 像素风动画生成器（4-8s 多阶段叙事）
+- 🦀 `clawd-animation-lite` 动画轻量版（1-3s 单动作，省 token）
+- 🧠 `self-improving-agent` 经验沉淀器（人工审核才入长期记忆）
+- 📝 `wechat-article-publisher` 公众号文章自动化全链路
 
-`Next.js 14` `DeepSeek` `SQLite` `PWA` `Tailwind`
+`Claude Code` `Skills` `Markdown` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 [美评宝 — Business Growth](https://github.com/YiShu5/meipingbao)
+### 🧈 [意疏的AI口袋 — 公众号排版器](https://github.com/YiShu5/GZHcomposing)
 
-**门店运营 SOP 自动化工具 · 实战于北京零售市场**
+**哆啦A梦口袋风格 · 新媒体运营效率工具**
 
-> 把 SOP 从文档变成工具，让每个门店员工都能执行专业级获客动作。
+> 好的排版不仅是视觉上的美感，更是对读者阅读体验的尊重。
 
-为零售门店打造的运营执行平台。AI 秒生成平台调性评价，覆盖抖音小时达 / 美团 / 饿了么全链路 SOP。
+哆啦A梦口袋主题的微信公众号排版工具。实时双栏编辑、Markdown 解析、多套预设风格一键切换。
 
 **核心能力：**
-- ⚡ 6 大品类 × 6 种风格，2 秒生成内容
-- 📚 三大即时零售平台运营方法库
-- 💬 门店反馈闭环，持续迭代
-- 🚀 无数据库无登录，部署即用
+- 🎨 8 种排版模式 + 哆啦A梦主题皮肤
+- ⚡ 实时预览，所见即所得
+- 📋 一键复制到公众号，富文本直接粘贴
+- 🔧 自带开头总结框、小标题、结尾模块设计
 
-`Next.js 16` `DeepSeek` `Tailwind 4` `Edge Deploy`
+`HTML5` `CSS3` `JavaScript` `Contenteditable`
 
 </td>
 </tr>
@@ -183,29 +183,6 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 
 `Python` `Node.js` `DeepSeek` `Flask` `飞书 API` `BibiGPT`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧈 [意疏的AI口袋 — 公众号排版器](https://github.com/YiShu5/GZHcomposing)
-
-**哆啦A梦口袋风格 · 新媒体运营效率工具**
-
-> 好的排版不仅是视觉上的美感，更是对读者阅读体验的尊重。
-
-哆啦A梦口袋主题的微信公众号排版工具。实时双栏编辑、Markdown解析、多套预设风格一键切换。
-
-**核心能力：**
-- 🎨 8种排版模式 + 哆啦A梦主题皮肤
-- ⚡ 实时预览，所见即所得
-- 📋 一键复制到公众号，富文本直接粘贴
-- 🔧 设计开头总结框、小标题、结尾模块
-
-`HTML5` `CSS3` `JavaScript` `Contenteditable`
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
