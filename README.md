@@ -50,8 +50,8 @@ clawd-animation 像素动画 + self-improving-agent 经验沉淀器。三原则�
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/yishu5skill">
-  <img src="https://img.shields.io/badge/📝_意疏AI口袋-public-34d399?style=for-the-badge&labelColor=161b22" />
+<a href="https://github.com/YiShu5/lobster-skills/tree/master/skills/wechat-article-publisher">
+  <img src="https://img.shields.io/badge/📝_wechat--article--publisher-public-34d399?style=for-the-badge&labelColor=161b22" />
 </a>
 
 **微信公众号文章自动化 Skill · 创作发布全链路**
