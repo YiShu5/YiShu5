@@ -35,34 +35,32 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/my-bookmarks">
-  <img src="https://img.shields.io/badge/🔖_my--bookmarks-private-818cf8?style=for-the-badge&labelColor=161b22" />
+<a href="https://github.com/YiShu5/lobster-skills">
+  <img src="https://img.shields.io/badge/🦞_lobster--skills-public-CD6E58?style=for-the-badge&labelColor=161b22" />
 </a>
 
-**AI 智能收藏夹 · 高密度知识萃取器**
+**Claude Code Skills 集合 · 经过实战打磨**
 
-拒绝收藏即吃灰。DeepSeek 自动阅读 → 摘要 → 知识卡片。
+clawd-animation 像素动画 + self-improving-agent 经验沉淀器。三原则：触发器式 description、token 预算管理、硬约束。
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-6366f1?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-3-CD6E58?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/meipingbao">
-  <img src="https://img.shields.io/badge/📈_meipingbao-private-34d399?style=for-the-badge&labelColor=161b22" />
+<a href="https://github.com/YiShu5/yishu5skill">
+  <img src="https://img.shields.io/badge/📝_意疏AI口袋-public-34d399?style=for-the-badge&labelColor=161b22" />
 </a>
 
-**门店运营 SOP 自动化 · 北京零售市场实战**
+**微信公众号文章自动化 Skill · 创作发布全链路**
 
-把 SOP 从文档变成工具。6 大品类 × 6 种风格，2 秒生成。
+从 AI 写作到智能配图、自动排版、一键上传草稿。8 套主题智能切换。
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WeChat](https://img.shields.io/badge/WeChat_API-07C160?style=flat-square&logo=wechat&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_AI-FF6A00?style=flat-square)
 
 </td>
 </tr>
