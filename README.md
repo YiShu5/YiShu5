@@ -50,17 +50,17 @@ clawd-animation 像素动画 + self-improving-agent 经验沉淀器。三原则�
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/lobster-skills/tree/master/skills/wechat-article-publisher">
-  <img src="https://img.shields.io/badge/📝_wechat--article--publisher-public-34d399?style=for-the-badge&labelColor=161b22" />
+<a href="https://github.com/YiShu5/GZHcomposing">
+  <img src="https://img.shields.io/badge/🧈_GZHcomposing-public-blue?style=for-the-badge&labelColor=161b22" />
 </a>
 
-**微信公众号文章自动化 Skill · 创作发布全链路**
+**意疏的AI口袋 · 公众号排版器**
 
-从 AI 写作到智能配图、自动排版、一键上传草稿。8 套主题智能切换。
+哆啦A梦口袋风格，实时双栏编辑，Markdown一键转换。
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WeChat](https://img.shields.io/badge/WeChat_API-07C160?style=flat-square&logo=wechat&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen_AI-FF6A00?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
@@ -95,25 +95,6 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_AI-6366f1?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/YiShu5/GZHcomposing">
-  <img src="https://img.shields.io/badge/🧈_GZHcomposing-public-blue?style=for-the-badge&labelColor=161b22" />
-</a>
-
-**意疏的AI口袋 · 公众号排版器**
-
-哆啦A梦口袋风格，实时双栏编辑，Markdown一键转换。
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -268,11 +249,20 @@ Chrome 插件自动识别 Markdown 中所有图片链接，并发下载后上传
 
 ## 💡 产品哲学
 
-> *好产品应该像空气一样自然——你不会注意到它的存在，但离开它就会窒息。*
+> *"好的产品是用完即走的。"*
+> — 张小龙
 
-> *工具不应该制造摩擦，它应该让正确的事情变得更容易。*
+不追求停留时长，不制造焦虑式留存。AI 工具的价值在于"省下的时间"，而不是"占据的时间"。
 
-> *从真实痛点出发，而不是从技术的可能性出发。*
+> *"善良比聪明更重要。"*
+> — 张小龙
+
+技术可以放大善意，也可以放大伤害。在做任何 AI 产品决策时，先问"它对用户友善吗"，再问"它聪明吗"。
+
+> *"再小的个体，也有自己的品牌。"*
+> — 张小龙
+
+这句话是我从零售运营跨界到 AI 产品的底层信念——AI 时代每个普通人都能拥有自己的工具链、自己的产出能力、自己的话语权。我做的每一个工具，都希望让"个体"变得更强。
 
 ---
 
