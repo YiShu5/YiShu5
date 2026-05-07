@@ -35,16 +35,16 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/YiShu5/lobster-skills">
-  <img src="https://img.shields.io/badge/🦞_lobster--skills-public-CD6E58?style=for-the-badge&labelColor=161b22" />
+<a href="https://github.com/YiShu5/claude-skills">
+  <img src="https://img.shields.io/badge/🧩_claude--skills-public-6366f1?style=for-the-badge&labelColor=161b22" />
 </a>
 
-**Claude Code Skills 集合 · 经过实战打磨**
+**通用 Claude Code Skills 集合 · 即插即用**
 
-clawd-animation 像素动画 + self-improving-agent 经验沉淀器。三原则：触发器式 description、token 预算管理、硬约束。
+像素动画、经验沉淀、公众号自动化等 4 个 skill。三原则：触发器式 description、token 预算管理、硬约束。
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-6366f1?style=flat-square)
-![Skills](https://img.shields.io/badge/Skills-3-CD6E58?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-4-6366f1?style=flat-square)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown)
 
 </td>
@@ -108,13 +108,13 @@ YouTube/B站/小宇宙 → AI 深度摘要 → 飞书 + 博客。
 <tr>
 <td width="50%" valign="top">
 
-### 🦞 [Lobster Skills — Claude Code 能力插件集](https://github.com/YiShu5/lobster-skills)
+### 🧩 [Claude Skills — 通用 Claude Code 能力插件集](https://github.com/YiShu5/claude-skills)
 
-**实战打磨的 Claude Code Skills · 经验沉淀器**
+**即插即用的 Claude Code Skills · 经验沉淀**
 
 > 好工具不是写出来的，是用出来的。
 
-收录我自己写或改造、反复使用验证过的 Claude Code Skills。遵循三原则：description 是触发器（覆盖隐性意图）、token 预算管理（lite/full 双版本）、规则写硬约束（减少模型自由发挥）。
+收录经过反复使用验证、可即插即用的 Claude Code Skills。遵循三原则：description 是触发器（覆盖隐性意图）、token 预算管理（lite/full 双版本）、规则写硬约束（减少模型自由发挥）。
 
 **已收录 Skills：**
 - 🦀 `clawd-animation` 像素风动画生成器（4-8s 多阶段叙事）
