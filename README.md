@@ -2,9 +2,23 @@
 
 **English** · [中文](README.zh-CN.md)
 
-I’m an AI product manager and builder. I started in retail growth and content operations, and now use coding agents to turn recurring business problems into products people can actually use. For me, code is a way to test ideas—not just describe them.
+**I turn frontline business problems into practical AI products.**
+
+My background is in retail growth and content operations. I use coding agents to move from field observation to prototype, then into workflows people can actually use.
+
+I care about reducing information noise, removing repetitive work, and making frontline knowledge reusable.
 
 ✍️ [CSDN](https://blog.csdn.net/2302_79751907)
+
+---
+
+## 🧭 From frontline to product
+
+I build from problems I have seen firsthand:
+
+- Too much content, too little reusable insight → [**NoiseFilter**](https://github.com/YiShu5/content-curation)
+- Repetitive, fragmented content production → [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) + [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing)
+- Retail know-how that is hard to standardize → **Meipingbao** *(private prototype)*
 
 ---
 
@@ -40,7 +54,7 @@ Products built from recurring problems in content, communication, and retail ope
 
 🎙️ [**AI Speaking Coach**](https://github.com/YiShu5/ai-speaking-coach) — Guided speaking practice with AI feedback for clearer expression.
 
-📈 [**Meipingbao**](https://github.com/YiShu5/meipingbao) — An AI retail-operations copilot for category-specific SOPs and campaign playbooks.
+📈 **Meipingbao** *(private prototype)* — An AI retail-operations copilot for category-specific SOPs and campaign playbooks.
 
 ---
 

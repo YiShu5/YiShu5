@@ -2,9 +2,23 @@
 
 [English](README.md) · **中文**
 
-我是一名 AI 产品经理，也亲自构建产品。我从零售增长和内容运营出发，现在借助 coding agents，把反复出现的业务问题做成真正能用的工具。对我来说，代码不仅用于描述想法，更用于验证想法。
+**我把一线业务中的真实问题，做成真正可用的 AI 产品。**
+
+我做过零售增长与内容运营，现在用 Coding Agent 把业务观察快速变成原型，再沉淀为可以被反复使用的工作流。
+
+我关注三件事：降低信息噪音、减少重复劳动、让一线经验可以被复用。
 
 ✍️ [CSDN](https://blog.csdn.net/2302_79751907)
+
+---
+
+## 🧭 从业务现场到 AI 产品
+
+我从亲身经历的问题出发：
+
+- 内容很多，但难以沉淀为可复用洞察 → [**NoiseFilter**](https://github.com/YiShu5/content-curation)
+- 内容生产重复、工具与流程割裂 → [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) + [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing)
+- 零售一线经验难以标准化与复制 → **Meipingbao**（私有原型）
 
 ---
 
@@ -40,7 +54,7 @@
 
 🎙️ [**AI Speaking Coach**](https://github.com/YiShu5/ai-speaking-coach) — 通过引导式练习和 AI 反馈，帮助用户更清晰地表达。
 
-📈 [**Meipingbao**](https://github.com/YiShu5/meipingbao) — 面向零售运营的 AI 助手，生成分品类 SOP 和活动打法。
+📈 **Meipingbao**（私有原型）— 面向零售运营的 AI 助手，生成分品类 SOP 和活动打法。
 
 ---
 
