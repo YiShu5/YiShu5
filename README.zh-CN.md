@@ -34,13 +34,13 @@
 
 使用信号和完成度最强的产品与工作流。
 
-🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing)（<!--stars:GZHcomposing-->213<!--/stars--> stars）— 浏览器原生的微信公众号编辑器，支持实时预览、可复用主题和富文本一键复制。
+🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing)（<!--stars:GZHcomposing-->217<!--/stars--> stars）— 浏览器原生的微信公众号编辑器，支持实时预览、可复用主题和富文本一键复制。
 
 🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills)（<!--stars:claude-skills-->130<!--/stars--> stars）— 在产品、内容、写作、演示与自动化工作流中反复验证的 coding-agent skills。
 
 🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench)（<!--stars:YiShu-Workbench-->123<!--/stars--> stars）— 本地优先、单文件运行的 AI 工作台，服务于内容生产、业务流程和个人效率。
 
-🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation)（<!--stars:content-curation-->112<!--/stars--> stars）— 集多来源抓取、AI 深度处理、结构化归档与飞书分发于一体的内容流水线。
+🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation)（<!--stars:content-curation-->116<!--/stars--> stars）— 集多来源抓取、AI 深度处理、结构化归档与飞书分发于一体的内容流水线。
 
 ---
 
