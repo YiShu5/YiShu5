@@ -40,7 +40,7 @@
 
 🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench)（<!--stars:YiShu-Workbench-->112<!--/stars--> stars）— 本地优先、单文件运行的 AI 工作台，服务于内容生产、业务流程和个人效率。
 
-🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation)（<!--stars:content-curation-->109<!--/stars--> stars）— 集多来源抓取、AI 深度处理、结构化归档与飞书分发于一体的内容流水线。
+🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation)（<!--stars:content-curation-->110<!--/stars--> stars）— 集多来源抓取、AI 深度处理、结构化归档与飞书分发于一体的内容流水线。
 
 ---
 
