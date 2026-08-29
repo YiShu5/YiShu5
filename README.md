@@ -40,7 +40,7 @@ The products and workflows people use most.
 
 🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) (<!--stars:YiShu-Workbench-->106<!--/stars--> stars) — A local-first, single-file AI workspace for content creation, business workflows, and personal productivity.
 
-🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation) (<!--stars:content-curation-->150<!--/stars--> stars) — A multi-source pipeline for AI processing, structured archiving, and Feishu publishing.
+🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation) (<!--stars:content-curation-->151<!--/stars--> stars) — A multi-source pipeline for AI processing, structured archiving, and Feishu publishing.
 
 ---
 
