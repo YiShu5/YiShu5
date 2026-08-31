@@ -34,13 +34,13 @@ Turn long-form content from YouTube, Bilibili, and Xiaoyuzhou into structured Ch
 
 The products and workflows people use most.
 
-🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing) (<!--stars:GZHcomposing-->195<!--/stars--> stars) — A browser-native WeChat editor with live Markdown preview, reusable themes, and one-click rich-text export.
+🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing) (<!--stars:GZHcomposing-->166<!--/stars--> stars) — A browser-native WeChat editor with live Markdown preview, reusable themes, and one-click rich-text export.
 
-🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills) (<!--stars:claude-skills-->110<!--/stars--> stars) — Battle-tested coding-agent skills for product, content, writing, presentations, and workflow automation.
+🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills) (<!--stars:claude-skills-->82<!--/stars--> stars) — Battle-tested coding-agent skills for product, content, writing, presentations, and workflow automation.
 
-🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) (<!--stars:YiShu-Workbench-->105<!--/stars--> stars) — A local-first, single-file AI workspace for content creation, business workflows, and personal productivity.
+🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) (<!--stars:YiShu-Workbench-->75<!--/stars--> stars) — A local-first, single-file AI workspace for content creation, business workflows, and personal productivity.
 
-🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation) (<!--stars:content-curation-->150<!--/stars--> stars) — A multi-source pipeline for AI processing, structured archiving, and Feishu publishing.
+🔇 [**NoiseFilter**](https://github.com/YiShu5/content-curation) (<!--stars:content-curation-->138<!--/stars--> stars) — A multi-source pipeline for AI processing, structured archiving, and Feishu publishing.
 
 ---
 
