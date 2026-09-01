@@ -36,7 +36,7 @@
 
 🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing)（<!--stars:GZHcomposing-->166<!--/stars--> stars）— 浏览器原生的微信公众号编辑器，支持实时预览、可复用主题和富文本一键复制。
 
-🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills)（<!--stars:claude-skills-->82<!--/stars--> stars）— 在产品、内容、写作、演示与自动化工作流中反复验证的 coding-agent skills。
+🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills)（<!--stars:claude-skills-->83<!--/stars--> stars）— 在产品、内容、写作、演示与自动化工作流中反复验证的 coding-agent skills。
 
 🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench)（<!--stars:YiShu-Workbench-->75<!--/stars--> stars）— 本地优先、单文件运行的 AI 工作台，服务于内容生产、业务流程和个人效率。
 

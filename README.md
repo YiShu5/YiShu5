@@ -36,7 +36,7 @@ The products and workflows people use most.
 
 🧈 [**GZHcomposing**](https://github.com/YiShu5/GZHcomposing) (<!--stars:GZHcomposing-->166<!--/stars--> stars) — A browser-native WeChat editor with live Markdown preview, reusable themes, and one-click rich-text export.
 
-🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills) (<!--stars:claude-skills-->82<!--/stars--> stars) — Battle-tested coding-agent skills for product, content, writing, presentations, and workflow automation.
+🧩 [**Claude Skills**](https://github.com/YiShu5/claude-skills) (<!--stars:claude-skills-->83<!--/stars--> stars) — Battle-tested coding-agent skills for product, content, writing, presentations, and workflow automation.
 
 🧰 [**YiShu Workbench**](https://github.com/YiShu5/YiShu-Workbench) (<!--stars:YiShu-Workbench-->75<!--/stars--> stars) — A local-first, single-file AI workspace for content creation, business workflows, and personal productivity.
 
